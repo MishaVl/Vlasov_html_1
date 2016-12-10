@@ -1,0 +1,22 @@
+﻿.text1 {
+  color:gray;
+}
+.text2 {
+  color:gray; 
+  text-indent: 30px;
+}
+.textlink {
+  text-indent: 30px;
+}
+.box {
+  font-family:Arial; 
+  font-size:13px;
+  margin: 0 auto;
+  width: 450px;
+}
+.boxes {
+  border-bottom: 1px solid gray;
+}
+.picture {
+  text-align: center;
+}
